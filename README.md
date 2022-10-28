@@ -1,2 +1,0 @@
-# GoRH
-Fichier pour GoRH
